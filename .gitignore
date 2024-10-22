@@ -33,3 +33,5 @@ local/
 temp/
 scrapes/
 output/
+
+.DS_STORE
