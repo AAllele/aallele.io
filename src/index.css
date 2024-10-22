@@ -3,6 +3,7 @@
 html, body {
   height: 100vh;
   /* overflow: hidden; */
+  background-image: url('https://picsum.photos/id/257/1500/1000');
 }
 
 .full-screen {
